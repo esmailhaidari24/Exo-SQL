@@ -3,13 +3,13 @@ Exercices SQL
 
 Une fois la base de données installée, réalisez les exercices suivants :
 
--1 Sélectionner toutes les informations des comptes
+- 1 Sélectionner toutes les informations des comptes
 Sélectionner toutes les colonnes du compte ayant l'ID 3.
 
-+2 Comptes avec solde inférieur à 600
++ 2 Comptes avec solde inférieur à 600
 Sélectionner toutes les colonnes des comptes avec un solde disponible strictement inférieur à 600.
 
-+3 Comptes d'épargne avec solde inférieur à 600
++ 3 Comptes d'épargne avec solde inférieur à 600
 Sélectionner toutes les colonnes des comptes d'épargne avec un solde disponible strictement inférieur à 600.
 
 +4 Comptes ouverts en décembre 2004
