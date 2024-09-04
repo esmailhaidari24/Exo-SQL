@@ -1,9 +1,9 @@
-* Installer la base de données en utilisant le fichier script.sql.
+# Installer la base de données en utilisant le fichier script.sql.
 Exercices SQL
 
 Une fois la base de données installée, réalisez les exercices suivants :
 
-*1 Sélectionner toutes les informations des comptes
+##1 Sélectionner toutes les informations des comptes
 Sélectionner toutes les colonnes du compte ayant l'ID 3.
 
 *2 Comptes avec solde inférieur à 600
