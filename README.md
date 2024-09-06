@@ -1,5 +1,5 @@
-# Installer la base de données en utilisant le fichier script.sql.
-Exercices SQL
+
++ Exercices SQL
 
 Une fois la base de données installée, réalisez les exercices suivants :
 
